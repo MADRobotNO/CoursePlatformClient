@@ -1,1 +1,1 @@
-# CoursePlatformClient
+# CoursePlatformClient - Blazor
